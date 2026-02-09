@@ -1,1 +1,0 @@
-print('Jack vastas: "Rock \'n\' roll".')
